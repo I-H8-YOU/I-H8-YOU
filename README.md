@@ -1,19 +1,65 @@
-<h1 align="center"> Hey there 👋 </h1>
-<h3 align="center">⚡Tech Stack⚡</h3>
-<h4 align="center">Techs which I've used at least once</h4>
+
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-<!-- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iMTUwcHgiIGhlaWdodD0iMTUwcHgiIHZpZXdCb3g9IjAgMCAzMi4wMCAzMi4wMCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMC4yNTYiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIuNTU3IDIzLjIyYzAgMC0wLjk4MiAwLjU3MSAwLjY5OSAwLjc2NSAyLjAzNyAwLjIzMiAzLjA3OSAwLjE5OSA1LjMyNC0wLjIyNiAwIDAgMC41OSAwLjM3IDEuNDE1IDAuNjkxLTUuMDMzIDIuMTU3LTExLjM5LTAuMTI1LTcuNDM3LTEuMjN6TTExLjk0MiAyMC40MDVjMCAwLTEuMTAyIDAuODE2IDAuNTgxIDAuOTkgMi4xNzYgMC4yMjQgMy44OTUgMC4yNDMgNi44NjktMC4zMyAwIDAgMC40MTEgMC40MTcgMS4wNTggMC42NDUtNi4wODUgMS43NzktMTIuODYzIDAuMTQtOC41MDgtMS4zMDV6TTE3LjEyNyAxNS42M2MxLjI0IDEuNDI4LTAuMzI2IDIuNzEzLTAuMzI2IDIuNzEzczMuMTQ5LTEuNjI1IDEuNzAzLTMuNjYxYy0xLjM1MS0xLjg5OC0yLjM4Ni0yLjg0MSAzLjIyMS02LjA5MyAwIDAtOC44MDEgMi4xOTgtNC41OTggNy4wNDJ6TTIzLjc4MyAyNS4zMDJjMCAwIDAuNzI3IDAuNTk5LTAuODAxIDEuMDYyLTIuOTA1IDAuODgtMTIuMDkxIDEuMTQ2LTE0LjY0MyAwLjAzNS0wLjkxNy0wLjM5OSAwLjgwMy0wLjk1MyAxLjM0NC0xLjA2OSAwLjU2NC0wLjEyMiAwLjg4Ny0wLjEgMC44ODctMC4xLTEuMDIwLTAuNzE5LTYuNTk0IDEuNDExLTIuODMxIDIuMDIxIDEwLjI2MiAxLjY2NCAxOC43MDYtMC43NDkgMTYuMDQ0LTEuOTV6TTEzLjAyOSAxNy40ODljMCAwLTQuNjczIDEuMTEtMS42NTUgMS41MTMgMS4yNzQgMC4xNzEgMy44MTQgMC4xMzIgNi4xODEtMC4wNjYgMS45MzQtMC4xNjMgMy44NzYtMC41MSAzLjg3Ni0wLjUxcy0wLjY4MiAwLjI5Mi0xLjE3NSAwLjYyOWMtNC43NDUgMS4yNDgtMTMuOTExIDAuNjY3LTExLjI3Mi0wLjYwOSAyLjIzMi0xLjA3OSA0LjA0Ni0wLjk1NiA0LjA0Ni0wLjk1NnpNMjEuNDEyIDIyLjE3NGM0LjgyNC0yLjUwNiAyLjU5My00LjkxNSAxLjAzNy00LjU5MS0wLjM4MiAwLjA3OS0wLjU1MiAwLjE0OC0wLjU1MiAwLjE0OHMwLjE0Mi0wLjIyMiAwLjQxMi0wLjMxOGMzLjA3OS0xLjA4MyA1LjQ0OCAzLjE5My0wLjk5NCA0Ljg4Ny0wIDAgMC4wNzUtMC4wNjcgMC4wOTctMC4xMjZ6TTE4LjUwMyAzLjMzN2MwIDAgMi42NzEgMi42NzItMi41MzQgNi43ODEtNC4xNzQgMy4yOTYtMC45NTIgNS4xNzYtMC4wMDIgNy4zMjMtMi40MzYtMi4xOTgtNC4yMjQtNC4xMzMtMy4wMjUtNS45MzQgMS43NjEtMi42NDQgNi42MzgtMy45MjUgNS41Ni04LjE3ek0xMy41MDMgMjguOTY2YzQuNjMgMC4yOTYgMTEuNzQtMC4xNjQgMTEuOTA4LTIuMzU1IDAgMC0wLjMyNCAwLjgzMS0zLjgyNiAxLjQ5LTMuOTUyIDAuNzQ0LTguODI2IDAuNjU3LTExLjcxNiAwLjE4IDAgMCAwLjU5MiAwLjQ5IDMuNjM1IDAuNjg1eiIvPiA8L2c+Cg08L3N2Zz4=">
+  <img src="https://github.com/user-attachments/assets/e5d268f8-fe46-4eb6-a5d4-87c5107cfa08" alt="Jaehun Chung GitHub Banner" />
 </p>
-<br>
-<h3 align="center">🌱 I’m currently learning ...</h3>
+
+<h1 align="center">Hi, I'm Jaehun Chung ☁️</h1>
+<h3 align="center">Salesforce Developer & Trailblazer</h3>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Salesforce%20Developer-blue?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trailblazer-%2300A1E0?style=flat&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-%23FF9E0F?style=flat" />
 </p>
+
+---
+
+## 👋 About Me
+
+I'm **Jaehun Chung**, a Salesforce developer passionate about building impactful CRM solutions using Apex, Lightning Web Components (LWC), and Flows.  
+With multiple certifications and continuous learning on Trailhead, I strive to create scalable and user-focused solutions on the Salesforce platform.
+
+- ☁️ Specialized in Apex, Flow Builder, and LWC  
+- 🧠 Trailhead **Triple Star Ranger**  
+- 🛠 Building real-world projects to sharpen platform skills  
+- 🔍 Open to work as a **Salesforce Developer**
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b842b2fa-ccc2-401e-87a4-06e151806faf" alt="Salesforce Administrator" width="120" />
+  <img src="https://github.com/user-attachments/assets/de11a736-cc47-4c69-8c32-c971072a97fa" alt="Platform Developer I" width="120" />
+  <img src="https://github.com/user-attachments/assets/a35f0766-5394-4b88-8fec-c9e539a2010b" alt="Salesforce Associate" width="120" />
+  <img src="https://github.com/user-attachments/assets/510a3e4b-3832-475b-a039-9cd2e18ad60a" alt="JavaScript Developer I" width="120" />
+</p>
+
+---
+
+## 🧰 Salesforce Toolbox
+
+- 💻 **Languages**: Apex, JavaScript, SOQL, HTML/CSS  
+- ⚙️ **Salesforce Platform**: Lightning Web Components (LWC), Flow Builder, Validation Rules, Process Automation  
+- 🛠 **Tools**: VS Code, GitHub, Workbench, Postman, Chrome DevTools  
+
+---
+
+## 🏔 Trailhead Highlights
+
+> "Trailblazing means leading with curiosity and determination."
+
+- ⭐ **Triple Star Ranger** on Trailhead  
+- 🧩 100+ Badges | 50+ Modules | 10+ Superbadges  
+- 🧠 Favorite topics: Apex Integration, Flow Automation, LWC Basics  
+- 🤝 Active in Salesforce Korea Community & Discord  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=I-H8-YOU&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-H8-YOU&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
