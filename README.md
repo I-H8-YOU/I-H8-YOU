@@ -50,9 +50,8 @@ With multiple certifications and continuous learning on Trailhead, I strive to c
 > "Trailblazing means leading with curiosity and determination."
 
 - ⭐ **Triple Star Ranger** on Trailhead  
-- 🧩 100+ Badges | 50+ Modules | 10+ Superbadges  
+- 🧩 300+ Badges | 50+ Modules | 10+ Superbadges  
 - 🧠 Favorite topics: Apex Integration, Flow Automation, LWC Basics  
-- 🤝 Active in Salesforce Korea Community & Discord  
 
 ---
 
