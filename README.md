@@ -41,7 +41,7 @@
 ## 🧰 세일즈포스 개발 Toolbox
 
 - 💻 **사용 언어**: Apex, JavaScript, SOQL, HTML/CSS  
-- ⚙️ **세일즈포스 플랫폼**: LWC, Flow Builder, 검증 규칙, 프로세스 자동화  
+- ⚙️ **세일즈포스 플랫폼**: LWC, Flow Builder, Validation Rule, Process Automation  
 - 🛠 **개발 도구**: VS Code, GitHub, Workbench, Postman, Chrome DevTools  
 
 ---
